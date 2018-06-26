@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TilesOfElinor</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_dungeon_select">DungeonSelect</string>
+    <string name="title_activity_encounter">Encounter</string>
+    <string name="title_activity_encounter_list">EncounterList</string>
+    <string name="title_activity_enter_the_dungeon">EnterTheDungeon</string>
+    <string name="title_activity_map_viewer">MapViewer</string>
+</resources>
